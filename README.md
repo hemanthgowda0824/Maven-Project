@@ -10,11 +10,11 @@ You’ll create an application that provides the time of day and then build it w
 
 + Install Java for ubuntu
   
-     sudo apt-get install openjdk-17-jre
+       sudo apt-get install openjdk-17-jre
 
 + Install Maven
   
-    sudo yum install maven
+      sudo yum install maven
 
 ## Set up the project
 First you’ll need to setup a Java project for Maven to build. To keep the focus on Maven, make the project as simple as possible for now.
